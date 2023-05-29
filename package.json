@@ -1,0 +1,20 @@
+{
+  "name": "ym",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodeactyl": "^3.3.0",
+    "spotify-web-api-node": "^5.0.2",
+    "ws": "^8.13.0",
+    "ym-api": "^1.2.1"
+  },
+  "type": "module"
+}
